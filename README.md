@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+<h2 align="left">Hi 👋! My name is <b>Vivek Chavda</b> and I'm a Software Developer, from India.</h2>
 
 <!--
 **vivekchavda1374/vivekchavda1374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +32,6 @@ Here are some ideas to get you started:
 [![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekchavda1374&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/vivekchavda1374)
   
 </p>
-
-<h2 align="left">Hi 👋! My name is <b>Vivek Chavda</b> and I'm a Software Developer, from India.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vivekchavda1374&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
