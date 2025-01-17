@@ -13,13 +13,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2AA889&multiline=true&width=435&height=80&lines=4%2B+years+of+coding+experience;Passionate+about+Innovation;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 </div>
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/vivekchavda1374?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vivekchavda1374?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/vivekchavda1374?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vivekchavda1374?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
