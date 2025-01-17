@@ -15,8 +15,6 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/YourChannel">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://github.com/vivekchavda1374?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vivekchavda1374?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/vivekchavda1374?tab=followers">
@@ -78,7 +76,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek's streak" src="https://streak-stats.demolab.com/?user=vivekchavda1374&theme=monokai-metallian&hide_border=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek's streak" src="https://streak-stats.demolab.com/?user=Vivekchavda1374&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 ### 💻 GitHub Profile Stats
@@ -110,16 +108,6 @@ Other        10 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 🌟 Projects & Contributions
-
-<p align="center">
-  <a href="https://github.com/vivekchavda1374/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekchavda1374&repo=project1&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/vivekchavda1374/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekchavda1374&repo=project2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</p>
 
 ## 🎯 Future Goals
 
@@ -157,9 +145,6 @@ const goals = {
   <img src="https://profile-counter.glitch.me/vivekchavda1374/count.svg" />
   
   ### Support My Work! ⭐
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YourUsername)
-</div>
-
 ---
 
 <p align="center">
