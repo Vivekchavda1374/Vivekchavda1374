@@ -1,95 +1,167 @@
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Profile!;I'm+Vivek+Chavda" alt="Typing SVG" />
+</h2>
 
-
-<h2 align="left">Hi 👋! My name is <b>Vivek Chavda</b> and I'm a Software Developer, from India.</h2>
-
-<!--
-**vivekchavda1374/vivekchavda1374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/vivekchavda1374/count.svg" />
-</p>
-
-## Github Stats
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekchavda1374&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=40)
-
-</p>
-
-<p align = "center">
-  
-[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekchavda1374&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/vivekchavda1374)
-  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+things" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekchavda1374&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivekchavda1374&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2AA889&multiline=true&width=435&height=80&lines=4%2B+years+of+coding+experience;Passionate+about+Innovation;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
+</div>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/YourChannel">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://github.com/vivekchavda1374?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vivekchavda1374?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/vivekchavda1374?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vivekchavda1374?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<div align="center">
+  
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming and Markup Languages
+
+<p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FDA717.svg?logo=firebase&logoColor=black">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+    <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6F00.svg?logo=firebase&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+</p>
+</div>
+
+## 📊 Github Stats and Activity
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek's streak" src="https://streak-stats.demolab.com/?user=vivekchavda1374&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+### 💻 GitHub Profile Stats
+
+<p align="center">
+    <img alt="Vivek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vivekchavda1374&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Vivek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vivekchavda1374&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</p>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekchavda1374&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+</p>
+
+### ⚡ Recent GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekchavda1374&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+
+### 🎯 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 41 mins  ████████████████░░░░░░  61.97%
+React        5 hrs 25 mins   ███████░░░░░░░░░░░░░░░  21.39%
+Flutter      2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░  10.21%
+Python       1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░   5.78%
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░   0.65%
+```
+<!--END_SECTION:waka-->
+
+## 🌟 Projects & Contributions
+
+<p align="center">
+  <a href="https://github.com/vivekchavda1374/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekchavda1374&repo=project1&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/vivekchavda1374/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekchavda1374&repo=project2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</p>
+
+## 🎯 Future Goals
+
+```javascript
+const goals = {
+    shortTerm: [
+        "Master Advanced React Patterns",
+        "Contribute to Open Source",
+        "Build AI-Powered Applications"
+    ],
+    longTerm: [
+        "Create Impactful Products",
+        "Mentor New Developers",
+        "Build a Tech Startup"
+    ]
+};
+```
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-chavda-018380220">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:viveksinhchavda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/VivekChavda">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <h3>🌟 Visitors Count</h3>
+  <img src="https://profile-counter.glitch.me/vivekchavda1374/count.svg" />
+  
+  ### Support My Work! ⭐
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YourUsername)
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
----
-
-### 🚀 Contact & Social
-
-<div align="left">
-  <a href="mailto:viveksinhchavda@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vivek-chavda-018380220/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/VivekChavda" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
----
-
-### 🌱 Currently Learning:
-
-- **Frameworks**: React, Vue, Flutter, Firebase
-- **Courses**: Machine Learning, Python for everybody, Advanced Flutter Development
-
----
-
-### 📝 Fun Facts & Interests:
-
-- **Fun fact**: I think I am funny 😄
-- **Interests**: Building assistive technologies, farming tech apps, collaborating with creative minds!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
