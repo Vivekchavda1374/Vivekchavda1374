@@ -14,7 +14,6 @@
 </div>
 
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
   
 ## 🛠️ My Favorite Tools
@@ -41,7 +40,7 @@
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
-    <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
+  
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -49,8 +48,7 @@
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6F00.svg?logo=firebase&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+   
 </p>
 
 ### 💻 Software and Tools
@@ -60,7 +58,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    
 </p>
 </div>
 
@@ -89,17 +87,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekchavda1374&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 
-### 🎯 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 41 mins  ████████████████░░░░░░  61.97%
-React        5 hrs 25 mins   ███████░░░░░░░░░░░░░░░  21.39%
-Flutter      2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░  10.21%
-Python       1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░   5.78%
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░   0.65%
-```
-<!--END_SECTION:waka-->
 
 
 ## 🎯 Future Goals
@@ -107,7 +95,7 @@ Other        10 mins         ░░░░░░░░░░░░░░░░░
 ```javascript
 const goals = {
     shortTerm: [
-        "Master Advanced React Patterns",
+        "Master React Patterns",
         "Contribute to Open Source",
         "Build AI-Powered Applications"
     ],
