@@ -1,125 +1,216 @@
+# 🚀 Welcome to My Digital Universe!
 
- <h2 align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Profile!;I'm+Vivek+Chavda" alt="Typing SVG" />
- </h2>
- 
- <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+things" />
-   </a>
- </p>
- 
- <div align="center">
- 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2AA889&multiline=true&width=435&height=80&lines=2%2B+years+of+coding+experience;Passionate+about+Innovation;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
- </div>
- 
- 
- <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
- <div align="center">
- 
- ## 🛠️ My Favorite Tools
- 
- ### 👨‍💻 Programming and Markup Languages
- 
- <p>
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-     <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
- </p>
- 
- ### 🧰 Frameworks and Libraries
- 
- <p>
-     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
-     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FDA717.svg?logo=firebase&logoColor=black">
-     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
- 
- </p>
- 
- ### 🗄️ Databases and Cloud Hosting
- 
- <p>
-     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6F00.svg?logo=firebase&logoColor=white">
-    
- </p>
- 
- ### 💻 Software and Tools
- 
- <p>
-     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-     <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
-     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-     
- </p>
- </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Vivek%20Chavda&fontSize=40&fontColor=fff&height=120&desc=Full%20Stack%20Developer%20%26%20Innovation%20Enthusiast&descSize=18"/>
+</div>
 
- ### 💻 GitHub Profile Stats
- 
- <p align="center">
-     <img alt="Vivek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vivekchavda1374&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-     <img alt="Vivek's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vivekchavda1374&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
- </p>
- 
- ### 🏆 GitHub Profile Trophy
- 
- <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=vivekchavda1374&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
- </p>
- 
- ### ⚡ Recent GitHub Activity
- 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekchavda1374&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
- 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Hey,%20I'm%20Vivek%20Chavda!;💻%20Full%20Stack%20Developer;🌟%20Passionate%20about%20Innovation;🚀%20Always%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=667eea&vCenter=true&size=22">
+</p>
 
- 
- 
- ## 🎯 Future Goals
- 
- ```javascript
- const goals = {
-     shortTerm: [
-         "Master React Patterns",
-         "Contribute to Open Source",
-         "Build AI-Powered Applications"
-     ],
-     longTerm: [
-         "Create Impactful Products",
-         "Mentor New Developers",
-         "Build a Tech Startup"
-     ]
- };
- ```
- 
- ## 🤝 Let's Connect!
- 
- <p align="center">
-   <a href="https://linkedin.com/in/vivek-chavda-018380220">
-     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="mailto:viveksinhchavda@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
- 
- </p>
- 
- <div align="center">
-   <h3>🌟 Visitors Count</h3>
-   <img src="https://profile-counter.glitch.me/vivekchavda1374/count.svg" />
- 
-   ### Support My Work! ⭐
- ---
- 
- <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
- </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekchavda1374&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vivekchavda1374?label=Followers&style=for-the-badge&color=764ba2" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  experience: number;
+  currentFocus: string[];
+  passion: string;
+  funFact: string;
+}
+
+const vivek: Developer = {
+  name: "Vivek Chavda",
+  location: "Gujarat, India 🇮🇳",
+  experience: 2,
+  currentFocus: ["React", "Flutter", "Node.js", "AI Integration"],
+  passion: "Building solutions that make a difference",
+  funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekchavda1374&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f39c12&currStreakLabel=f39c12" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekchavda1374&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekchavda1374&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekchavda1374&bg_color=0D1117&color=667eea&line=764ba2&point=f39c12&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekchavda1374&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Current Projects & Goals
+
+### 🚧 What I'm Working On
+
+```javascript
+const currentProjects = {
+  primary: "Building AI-powered web applications",
+  secondary: "Contributing to open source projects",
+  learning: ["Advanced React Patterns", "System Design", "DevOps"],
+  nextGoal: "Launch my first SaaS product"
+};
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Short Term Goals
+- ✅ Master React & Next.js
+- 🔄 Contribute to 10+ Open Source Projects  
+- 🔄 Build AI-Integrated Applications
+- 🔄 Learn System Design
+
+</td>
+<td width="50%">
+
+### 🚀 Long Term Vision
+- 🎯 Create Impactful SaaS Products
+- 🎯 Mentor Aspiring Developers
+- 🎯 Build a Tech Startup
+- 🎯 Become a Tech Speaker
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Fun Facts & Interests
+
+<div align="center">
+
+```
+🎵 Currently Listening to: Lo-fi Hip Hop for Coding
+☕ Fuel of Choice: Coffee (lots of it!)
+🎮 When Not Coding: Gaming & Reading Tech Blogs
+🌱 Always Learning: New technologies and frameworks
+💭 Philosophy: "Code is poetry written in logic"
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+### 📫 Reach Out to Me
+
+<p>
+  <a href="https://linkedin.com/in/vivek-chavda-018380220">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:viveksinhchavda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/vivekchavda1374">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/vivekchavda1374">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
+### 💬 Ask Me About
+`JavaScript` `React` `Flutter` `Node.js` `Mobile Development` `Full Stack Development`
+
+</div>
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 Support My Work
+  
+If you find my projects helpful, consider giving them a ⭐ or buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/vivekchavda" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  **Thanks for visiting! Let's build something amazing together! 🚀**
+  
+  <sub>💻 Happy Coding! | 🚀 Keep Building! | 🌟 Stay Curious!</sub>
+</div>
