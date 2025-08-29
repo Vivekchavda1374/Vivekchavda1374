@@ -1,4 +1,4 @@
-# 💫 Vivek Chavda - Full Stack Developer
+# 💫 Vivek Chavda 
 
 <div align="center">
   
