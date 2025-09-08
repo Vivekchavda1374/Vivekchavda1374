@@ -142,24 +142,6 @@ Key Strengths:
 
 ---
 
-## 🎯 Professional Goals
-
-### 📅 2026 Roadmap
-
-**Q1 - Q2:**
-- [ ] Master Advanced React Patterns & Next.js
-- [ ] Contribute to 5+ Open Source Projects
-- [ ] Learn Docker
-- [ ] Build AI-powered web applications
-
-**Q3 - Q4:**
-- [ ] Explore Cloud Architecture (AWS/Azure)
-- [ ] Mentor junior developers
-- [ ] Launch a SaaS product
-- [ ] Achieve AWS certification
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -175,10 +157,7 @@ Key Strengths:
 
 </div>
 
----
 
-
----
 
 <div align="center">
 
