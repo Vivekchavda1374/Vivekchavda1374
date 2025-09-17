@@ -29,7 +29,7 @@ interface Developer {
 
 const vivek: Developer = {
   name: "Vivek Chavda",
-  role: "Full Stack Developer",
+  role: "Software Developer",
   location: "Gujarat, India",
   experience: "2+ Years",
   focus: ["Web Development", "Mobile Apps", "Database Design", "System Architecture"],
